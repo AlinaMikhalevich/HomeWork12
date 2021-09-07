@@ -312,3 +312,7 @@ body {
         max-width: 60%;
     }
 }
+
+.selector {
+    border-bottom: 1px solid;
+}
